@@ -40,3 +40,4 @@ Project and task notes support _Markdown_ language formatting. The formatted not
 yarn install
 
 yarn start
+![example_image](https://user-images.githubusercontent.com/51194948/144821927-4cd76e39-9bed-4e19-bac0-531c9f35322d.png)
