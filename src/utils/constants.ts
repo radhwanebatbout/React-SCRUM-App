@@ -1,0 +1,15 @@
+export const PALLETE = {
+  green: '#d8ec8f',
+  lime: '#00b894',
+  cyan: '#00cec9',
+  blue: '#87cefa',
+  lightblue: '#cfebfd',
+  purple: '#b19cd9',
+  lightpink: '#ffdcf4',
+  pink: '#f47898',
+  red: '#ff6961',
+  orange: '#ffb347',
+  yellow: '#ffeaa7',
+  white: 'white',
+  gray: '#b2bec3',
+};
